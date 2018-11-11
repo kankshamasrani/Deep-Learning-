@@ -1,5 +1,5 @@
 # Deep-Learning
-
+LINEAR REGIONS 
 1. Perceptron Algorithm
 
 Perceptron is a single layer neural network and a multi-layer perceptron is called Neural Networks.
@@ -12,3 +12,7 @@ The perceptron consists of 4 parts .
 > Weights and Bias
 > Net sum
 > Activation Function
+
+
+
+NON LINEAR REGIONS
